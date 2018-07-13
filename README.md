@@ -1,6 +1,6 @@
 # A simple chat system built with PHP and Ajax
 
-### Live Demo:
+### Purpose:
 
 This project is aimed at helping and supporting my learning process to master both front-end and back-end technologies. This time, I try some PHP and AJAX code in order to understand the basic structure of a simple chat system. 
 
